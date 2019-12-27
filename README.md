@@ -1,4 +1,4 @@
-# Face identification using FaceNET module
+# Face identification using MTCNN module
 This project makes use of mtcnn module to identify the face of one person from the 
 the image provided by the datasets that can be downloaded from this
 [link](https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset#)
@@ -20,4 +20,4 @@ the image provided by the datasets that can be downloaded from this
 2. before running the main.py file, make sure you have installed all the libraries
 
 ## How to use
-Run the main.py file using [command](python main.py) or run it through any IDE 
+Run the main.py file using command `python main.py` on command prompt or run it through any IDE 
